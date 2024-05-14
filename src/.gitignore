@@ -1,0 +1,2 @@
+# Required for some editor and IDE extensions that create the preview file next to the source file.
+*.pdf
